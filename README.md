@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Kudryavtsev AI</a> 
+<h3 align="center">InfoSec Special</h3>
 
 <!--
 **Kudryai/Kudryai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
