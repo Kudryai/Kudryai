@@ -8,7 +8,12 @@
 </div>
 
 <h4 align="center">My certification</h4>
+<div id="header" align="center">
 <a href="https://stepik.org/cert/2257194?lang=en"><img width="200" src="https://img.shields.io/badge/CyberED-White_Hacker .-blue"></a>
 <a href="https://stepik.org/cert/2120533?lang=en"><img width="200" src="https://img.shields.io/badge/PythonGen-Professional-blue"></a>
 <a href="https://stepik.org/cert/1592061?lang=en"><img width="200" src="https://img.shields.io/badge/PythonGen-Advanced ._-blue"></a>
 <a href="https://stepik.org/cert/1502846?lang=en"><img width="200" src="https://img.shields.io/badge/PythonGen-Beginner ._-blue"></a>
+<a href="https://stepik.org/cert/1866840?lang=en"><img width="200" src="https://img.shields.io/badge/DVFU-SQL_Interactive-blue"></a>
+<a href="https://stepik.org/cert/2171114?lang=en"><img width="200" src="https://img.shields.io/badge/Balakirev-Python_OOP-blue"></a>
+
+</div>
