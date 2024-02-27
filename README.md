@@ -8,4 +8,4 @@
 </div>
 
 <h4 align="center">My certification</h4>
-<img width="575" alt="Runlearn" src="https://img.shields.io/badge/any_tesssxt-you_like-blue">
+<img width="50" alt="Runlearn" src="https://img.shields.io/badge/any_tesssxt-you_like-blue">
