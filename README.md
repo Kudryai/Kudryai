@@ -6,3 +6,6 @@
 <div id="header" align="center">
 <img width="575" alt="Runlearn" src="https://github.com/Kudryai/Kudryai/assets/103817265/3f1cac34-5764-4cb9-866a-85552aeb10e8">
 </div>
+
+<h4 align="center">My certification</h4>
+![CyberED](https://img.shields.io/badge/Cyber-ED-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
