@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Kudryavtsev AI</a> 
-<h3 align="center">InfoSec Special</h3>
+<h3 align="center">SOC Special</h3>
 <h3 align="center">My education</h3>
 <div id="header" align="center">
+  <p>●Повышение квалификации: </p>
+  <img width="1000" src="https://img.shields.io/badge/Академия цифровой защиты-Анализ защищенности инфраструктуры ActiveDirectory-black">
   <p>●Профессиональная переподготовка: </p>
   <img width="1300" src="https://img.shields.io/badge/ЧУ ДПО “ЦИТ БИС” 2024-“Информационная безопасность. Техническая защита информации ограниченного доступа , не содержащей сведения, составляющие государственную тайну-black">
   <img width="1300" src="https://img.shields.io/badge/Томский гос. университет 2022-Анализ данных цифрового следа в соответствии с моделью деятельности человека (группы людей) и информационных компьютерных систем-black">
