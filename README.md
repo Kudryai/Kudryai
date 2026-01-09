@@ -30,4 +30,5 @@
 <a href="https://stepik.org/cert/2171114?lang=en"><img width="200" src="https://img.shields.io/badge/Balakirev-Python_OOP-blue"></a>
 <a href="https://github.com/Kudryai/Kudryai/files/14415809/Eng.pdf"><img width="200" src="https://img.shields.io/badge/YandexED-Python_Async-blue"></a>
 <a href="https://lk.codeby.academy/verify/V-013-139-597"><img width="200" src="https://img.shields.io/badge/CodeBY-ADpentest-blue"></a>
+<a href="https://stepik.org/cert/3082966"><img width="200" src="https://img.shields.io/badge/ШкиперТЕХ-K8S_for_user-blue"></a>
 </div>
